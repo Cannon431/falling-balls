@@ -1,3 +1,3 @@
 # Falling balls
 Falling balls animation  
-[Run](https://cannon431.github.io/falling-balls)
+[Run](https://elaxer.github.io/falling-balls)
